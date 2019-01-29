@@ -1,2 +1,0 @@
-# sassproject
-sass learning project
